@@ -1,0 +1,13 @@
+.image {
+    width: 100%;
+}
+.esasdiv {
+    display: flex;
+    gap: 7px;
+}
+@media(max-width:768px) {
+    .esasdiv {
+        display: flex;
+        gap: 7px;
+    }
+}
